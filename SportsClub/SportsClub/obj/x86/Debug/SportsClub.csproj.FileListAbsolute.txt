@@ -1,0 +1,85 @@
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForum.resources
+C:\Users\mike\Desktop\315\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForum.resources
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mgracia\Dropbox\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mike\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\mike\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\mike\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForum.resources
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mike\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.addTransForum.resources
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.addTransForum.resources
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForum.resources
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TEMP.RADFORD.001\Dropbox\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.addTransForm.resources
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.newUserForm.resources
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForm.resources
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.delTransForm.resources
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.depositForum.resources
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.addTransForm.resources
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.delTransForm.resources
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.depositForum.resources
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.newUserForm.resources
+C:\Users\mgracia\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForm.resources
+C:\Users\mike\Dropbox\itec 315\SportsClub\SportsClub\obj\x86\Debug\SportsClub.editDeposits.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\bin\Debug\SportsClub.exe.config
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.pdb
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\bin\Debug\SportsClub.exe
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\bin\Debug\SportsClub.pdb
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.csprojResolveAssemblyReference.cache
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.addTransForm.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.delTransForm.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.depositForum.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.editDeposits.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.newUserForm.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.mainForm.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.Properties.Resources.resources
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.csproj.GenerateResource.Cache
+C:\Users\michael.gracia\Desktop\SportsClub\SportsClub\obj\x86\Debug\SportsClub.exe
